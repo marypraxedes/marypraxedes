@@ -1,25 +1,55 @@
-# Lógica de Programação com JavaScript
+# 👋 Olá, eu sou a Maryane
 
-Este repositório contém exercícios e pequenos códigos desenvolvidos durante meus estudos de **Lógica de Programação com JavaScript**, como parte de um bootcamp e estudos pessoais.
-
-## 📚 Conteúdos estudados
-- Variáveis
-- Operadores
-- Estruturas condicionais (`if`, `else`, `switch`)
-- Estruturas de repetição (`for`, `while`, `do while`)
-- Vetores (arrays)
-- Matrizes
-
-## 💻 Tecnologias
-- JavaScript
-- Node.js
-- Visual Studio Code
-
-## 🎯 Objetivo
-Praticar lógica de programação, ganhar familiaridade com JavaScript e construir uma base sólida para desenvolvimento de software.
-
-## 🚀 Em andamento
-Este repositório será atualizado conforme avanço nos estudos e novos exercícios forem adicionados.
+🎓 Graduanda em Engenharia de Software pela Uninter  
+🔐 Focada em Cibersegurança e DevSecOps  
+💻 Estudando desenvolvimento de software e segurança da informação  
 
 ---
-📌 Projeto desenvolvido para fins de estudo.
+
+## 🚀 Sobre mim
+
+Sou estudante de Engenharia de Software em início de carreira na área de tecnologia, com foco em desenvolvimento e segurança da informação.
+
+Tenho buscado construir uma base sólida em programação e cibersegurança, aliando teoria e prática através de cursos, projetos e estudos contínuos.
+
+Concluí cursos de extensão pela Universidade de São Paulo (USP), com ênfase em Machine Learning com Python e Engenharia de Prompt aplicada à Engenharia de Software.
+
+Também participo do programa Hackers do Bem, onde concluí o nível Fundamental e atualmente sigo no nível Especializado com foco em DevSecOps.
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+- Python  
+- JavaScript  
+- Lógica de Programação  
+- Git & GitHub  
+- Linux  
+- Cibersegurança  
+- DevSecOps (em formação)  
+
+---
+
+## 📚 Atualmente estudando
+
+- DevSecOps  
+- Segurança de aplicações  
+- Fundamentos de redes  
+- Desenvolvimento backend  
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade de estágio na área de tecnologia, com interesse em desenvolvimento de sistemas e segurança da informação, onde eu possa aplicar meus conhecimentos e continuar evoluindo profissionalmente.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/marypraxedes/
+- Email: mary.praxedes@icloud.com
+
+---
+
+✨ Sempre aprendendo e evoluindo na área de tecnologia
