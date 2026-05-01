@@ -1,32 +1,38 @@
-# 👋 Olá, eu sou a Maryane
+<h1 align="center">Olá 👋, eu sou a Maryane</h1>
 
-🎓 Graduanda em Engenharia de Software pela Uninter  
-🔐 Focada em Cibersegurança e DevSecOps  
-💻 Estudando desenvolvimento de software e segurança da informação  
+<p align="center">
+🎓 Engenharia de Software | 🔐 Cibersegurança | ⚙️ DevSecOps
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software em início de carreira na área de tecnologia, com foco em desenvolvimento e segurança da informação.
+Sou graduanda em Engenharia de Software pela Uninter, com foco em desenvolvimento de software e segurança da informação.
 
-Tenho buscado construir uma base sólida em programação e cibersegurança, aliando teoria e prática através de cursos, projetos e estudos contínuos.
+Tenho construído uma base sólida em programação e cibersegurança, aliando teoria e prática por meio de cursos, projetos e estudos contínuos.
 
-Concluí cursos de extensão pela Universidade de São Paulo (USP), com ênfase em Machine Learning com Python e Engenharia de Prompt aplicada à Engenharia de Software.
+🎓 Concluí cursos pela USP com foco em:
+- Machine Learning com Python  
+- Engenharia de Prompt para Engenharia de Software  
 
-Também participo do programa Hackers do Bem, onde concluí o nível Fundamental e atualmente sigo no nível Especializado com foco em DevSecOps.
+🔐 Participo do programa Hackers do Bem:
+- ✔️ Nível Fundamental concluído  
+- 🚀 Atualmente no nível Especializado (DevSecOps)
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias & Ferramentas
 
-- Python  
-- JavaScript  
-- Lógica de Programação  
-- Git & GitHub  
-- Linux  
-- Cibersegurança  
-- DevSecOps (em formação)  
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,git,github,linux" />
+</p>
+
+- 💻 Python | JavaScript  
+- 🔧 Git & GitHub  
+- 🐧 Linux  
+- 🔐 Cibersegurança  
+- ⚙️ DevSecOps (em formação)  
 
 ---
 
@@ -41,15 +47,20 @@ Também participo do programa Hackers do Bem, onde concluí o nível Fundamental
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade de estágio na área de tecnologia, com interesse em desenvolvimento de sistemas e segurança da informação, onde eu possa aplicar meus conhecimentos e continuar evoluindo profissionalmente.
+Busco minha primeira oportunidade de estágio na área de tecnologia, com interesse em desenvolvimento de sistemas e segurança da informação, visando crescimento profissional e aplicação prática dos conhecimentos adquiridos.
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/marypraxedes/
-- Email: mary.praxedes@icloud.com
+<p>
+<a href="https://www.linkedin.com/in/marypraxedes/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
 
 ---
 
-✨ Sempre aprendendo e evoluindo na área de tecnologia
+<p align="center">
+✨ Em constante evolução na área de tecnologia 🚀
+</p>
