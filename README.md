@@ -54,11 +54,18 @@ Busco minha primeira oportunidade de estágio na área de tecnologia, com intere
 ## 📌 Projetos
 
 🔹 [Classificador de Nível de Herói](https://github.com/marypraxedes/desafio-dio-3)  
-Projeto desenvolvido em JavaScript com foco na prática de lógica de programação e tomada de decisão.
+Projeto desenvolvido em JavaScript com foco na prática de lógica de programação e estruturas condicionais.
 
-A aplicação simula a classificação de um personagem com base em sua experiência (XP), aplicando regras condicionais para definir níveis progressivos.
+A aplicação simula a classificação de um personagem com base em sua experiência (XP), aplicando regras para definir níveis progressivos.
 
-Desenvolvido com o objetivo de consolidar fundamentos essenciais de programação.
+Tecnologias: JavaScript  
+
+---
+
+🔹 [Calculadora de Partidas Rankeadas](https://github.com/marypraxedes/desafio-2-dio)  
+Aplicação desenvolvida em JavaScript para cálculo de saldo de vitórias e classificação de nível em partidas ranqueadas.
+
+O projeto utiliza funções e operadores matemáticos para realizar cálculos e determinar o desempenho do jogador.
 
 Tecnologias: JavaScript
 
