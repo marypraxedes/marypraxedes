@@ -51,16 +51,6 @@ Busco minha primeira oportunidade de estágio na área de tecnologia, com intere
 
 ---
 
-## 📫 Contato
-
-<p>
-<a href="https://www.linkedin.com/in/marypraxedes/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
-
----
-
 ## 📌 Projetos
 
 🔹 [Classificador de Nível de Herói](https://github.com/marypraxedes/desafio-dio-3)  
@@ -71,6 +61,16 @@ A aplicação simula a classificação de um personagem com base em sua experiê
 Desenvolvido com o objetivo de consolidar fundamentos essenciais de programação.
 
 Tecnologias: JavaScript
+
+---
+
+## 📫 Contato
+
+<p>
+<a href="https://www.linkedin.com/in/marypraxedes/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
 
 ---
 
