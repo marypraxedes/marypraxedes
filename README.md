@@ -18,7 +18,7 @@ Tenho construído uma base sólida em programação e cibersegurança, aliando t
 
 🔐 Participo do programa Hackers do Bem:
 - ✔️ Nível Fundamental concluído  
-- 🚀 Atualmente no nível Especializado (DevSecOps)
+- 🚀 Nível Especializado (DevSecOps) concluído
 
 ---
 
@@ -32,7 +32,7 @@ Tenho construído uma base sólida em programação e cibersegurança, aliando t
 - 🔧 Git & GitHub  
 - 🐧 Linux  
 - 🔐 Cibersegurança  
-- ⚙️ DevSecOps (em formação)  
+- ⚙️ DevSecOps  
 
 ---
 
