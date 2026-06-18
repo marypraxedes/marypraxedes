@@ -16,9 +16,11 @@ Tenho construído uma base sólida em programação e cibersegurança, aliando t
 - Machine Learning com Python  
 - Engenharia de Prompt para Engenharia de Software  
 
-🔐 Participo do programa Hackers do Bem:
+🔐 Participei do programa Hackers do Bem:
 - ✔️ Nível Fundamental concluído  
 - 🚀 Nível Especializado (DevSecOps) concluído
+
+🎓 Estou atualmente no bootcamp de Java FullStack da Generation
 
 ---
 
@@ -28,7 +30,7 @@ Tenho construído uma base sólida em programação e cibersegurança, aliando t
 <img src="https://skillicons.dev/icons?i=python,js,git,github,linux" />
 </p>
 
-- 💻 Python | JavaScript  
+- 💻 Python | JavaScript | Java
 - 🔧 Git & GitHub  
 - 🐧 Linux  
 - 🔐 Cibersegurança  
@@ -38,9 +40,9 @@ Tenho construído uma base sólida em programação e cibersegurança, aliando t
 
 ## 📚 Atualmente estudando
 
-- DevSecOps  
-- Segurança de aplicações  
-- Fundamentos de redes  
+- Java
+- Banco de Dados  
+- Metodologias Ágeis 
 - Desenvolvimento backend  
 
 ---
