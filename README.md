@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maryane</h1>
-
 <p align="center">
-🎓 Software Engineering Student | ☕ Java Developer | 🔐 Cybersecurity | ⚙️ DevSecOps
+  <img src="https://github.com/marypraxedes/marypraxedes/blob/main/banner.png" alt="Maryane Praxedes Banner"/>
 </p>
 
 ---
