@@ -71,9 +71,5 @@ Java application developed during the Generation Brasil Bootcamp to manage a gam
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=marypraxedes&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marypraxedes&theme=github-dark&hide_border=true"/>
 </p>
