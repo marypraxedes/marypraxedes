@@ -1,91 +1,39 @@
 <p align="center">
-  <img src="https://github.com/marypraxedes/marypraxedes/blob/main/banner.png" alt="Maryane Praxedes Banner"/>
+  <img src="./banner.png" alt="Maryane Praxedes Banner"/>
+</p>
+
+<p align="center">
+  <b>Software Engineering Student</b> • ☕ Java • 🔐 Cybersecurity • ⚙️ DevSecOps
+</p>
+
+<p align="center">
+  <a href="mailto:mary.praxedes@icloud.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/marypraxedes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About
 
-I'm a Software Engineering student at Uninter, passionate about software development, cybersecurity, and DevSecOps.
+🎓 Software Engineering student at **Uninter**
 
-I'm currently improving my Java skills through the Java Full Stack Bootcamp at Generation Brasil, where I develop practical projects and apply concepts such as Object-Oriented Programming, data structures, and software development best practices.
+☕ Java Full Stack student at **Generation Brasil**
 
-I also have a background in DevSecOps and cybersecurity, aiming to combine secure development practices with quality software solutions.
+🔐 DevSecOps graduate through **Hackers do Bem**
 
----
-
-## 🎓 Education & Certifications
-
-### 🏛️ University of São Paulo (USP)
-
-Completed courses focused on:
-
-- Machine Learning with Python
-- Prompt Engineering for Software Engineering
-
-### 🔐 Hackers do Bem
-
-Completed training in:
-
-- ✔️ Fundamental Level
-- ✔️ Specialized Level - DevSecOps
-
-### ☕ Generation Brasil
-
-- Java Full Stack Bootcamp *(in progress)*
+🚀 Passionate about Backend Development, Cybersecurity and continuous learning.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,git,github,linux,vscode,eclipse" />
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,js,git,github,linux,vscode" />
 </p>
-
-### 💻 Programming Languages
-
-- Java
-- Python
-- JavaScript
-
-### 🔧 Tools
-
-- Git
-- GitHub
-- Linux
-- Eclipse / Spring Tool Suite (STS)
-- Visual Studio Code
-
-### 📚 Skills
-
-- Object-Oriented Programming (OOP)
-- Collections Framework
-- Exception Handling
-- Streams API
-- Lambda Expressions
-- UML
-- Git Flow
-- Agile Methodologies
-- DevSecOps
-- Cybersecurity Fundamentals
-
----
-
-## 📚 Currently Learning
-
-- Java
-- Database Fundamentals
-- SQL
-- Backend Development
-- Agile Methodologies
-
----
-
-## 🎯 Career Objective
-
-I'm looking for my first internship opportunity in technology, with a focus on backend development using Java.
-
-My goal is to contribute to software development projects, continuously improve my technical skills, and apply good programming and security practices.
 
 ---
 
@@ -93,94 +41,39 @@ My goal is to contribute to software development projects, continuously improve 
 
 ### 💳 Bank Account System
 
-🔗 **Repository:**  
-https://github.com/marypraxedes/conta_bancaria
+Java console application that simulates banking operations using Object-Oriented Programming.
 
-A Java application developed during the Generation Brasil Java Full Stack Bootcamp.
-
-The project simulates banking operations through an interactive console menu, applying Object-Oriented Programming concepts.
-
-### Features
-
-- Account registration
-- Account consultation
-- Deposits
-- Withdrawals
-- Transfers
-- Account management
-
-### Technologies Used
-
+**Technologies**
 - Java
-- Object-Oriented Programming
-- Collections Framework
+- OOP
+- Collections
 - Exception Handling
+
+🔗 https://github.com/marypraxedes/conta_bancaria
 
 ---
 
-### 🎮 Game Store E-commerce System
+### 🎮 Game Store E-commerce
 
-🔗 **Repository:**  
-https://github.com/marypraxedes/projeto_final_bloco_01
+Java application developed during the Generation Brasil Bootcamp to manage a game store.
 
-Final project developed during the first block of the Generation Brasil Java Full Stack Bootcamp.
-
-The application simulates a game store management system, using layered organization and Object-Oriented Programming concepts.
-
-### Features
-
-- Game registration
-- Product updates
-- Product consultation
-- Product removal
-- Interactive menu
-- Layer organization (Model, Controller, Repository)
-
-### Technologies Used
-
+**Technologies**
 - Java
-- Object-Oriented Programming
-- Collections Framework
-- Exception Handling
+- OOP
+- Collections
 - Streams API
 - Lambda Expressions
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=marypraxedes&theme=tokyonight&hide_border=true"/>
-
-</div>
+🔗 https://github.com/marypraxedes/projeto_final_bloco_01
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marypraxedes&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=marypraxedes&theme=transparent&hide_border=true"/>
 </p>
-
----
-
-## 📫 Contact
-
-<p align="left">
-
-<a href="mailto:mary.praxedes@icloud.com">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/marypraxedes/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
----
 
 <p align="center">
-✨ Always learning, building projects, and growing in technology 🚀
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marypraxedes&theme=github-dark&hide_border=true"/>
 </p>
