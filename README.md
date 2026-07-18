@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./banner.png" alt="Maryane Praxedes Banner"/>
-</p>
+<h1 align="center">
+  Hi, I'm Maryane Praxedes 👋
+</h1>
 
 <p align="center">
   <b>Software Engineering Student</b> • ☕ Java • 🔐 Cybersecurity • ⚙️ DevSecOps
