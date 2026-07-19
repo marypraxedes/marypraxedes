@@ -1,45 +1,30 @@
-<h1 align="center">
-  Hi, I'm Maryane Praxedes 👋
-</h1>
+## Hi, I'm Maryane Praxedes <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22">
 
-<p align="center">
-  <b>Software Engineering Student</b> • ☕ Java • 🔐 Cybersecurity • ⚙️ DevSecOps
-</p>
+Software Engineering Student • ☕ Java • 🔐 Cybersecurity • ⚙️ DevSecOps
 
-<p align="center">
-  <a href="mailto:mary.praxedes@icloud.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/marypraxedes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mary.praxedes@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marypraxedes/)
 
 ---
 
-## 👩‍💻 About
+### 👩‍💻 About
 
-🎓 Software Engineering student at **Uninter**
-
-☕ Java Full Stack student at **Generation Brasil**
-
-🔐 DevSecOps graduate through **Hackers do Bem**
-
-🚀 Passionate about Backend Development, Cybersecurity and continuous learning.
+- 🎓 Software Engineering student at **Uninter**
+- ☕ Java Full Stack student at **Generation Brasil**
+- 🔐 DevSecOps graduate through **Hackers do Bem**
+- 🚀 Passionate about Backend Development, Cybersecurity and continuous learning.
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,js,git,github,linux,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,js,git,github,linux,vscode" />
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-### 💳 Bank Account System
+#### 💳 Bank Account System
 
 Java console application that simulates banking operations using Object-Oriented Programming.
 
@@ -53,7 +38,7 @@ Java console application that simulates banking operations using Object-Oriented
 
 ---
 
-### 🎮 Game Store E-commerce
+#### 🎮 Game Store E-commerce
 
 Java application developed during the Generation Brasil Bootcamp to manage a game store.
 
@@ -68,8 +53,6 @@ Java application developed during the Generation Brasil Bootcamp to manage a gam
 
 ---
 
-## 📈 GitHub Activity
+### 📈 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marypraxedes&theme=github-dark&hide_border=true"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marypraxedes&theme=github-dark&hide_border=true" />
