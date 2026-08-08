@@ -30,17 +30,23 @@ Software Engineering Student • ☕ Java • 🔐 Cybersecurity • ⚙️ DevS
 
 ### 📌 Featured Projects
 
-#### 💳 Bank Account System
+#### 📝 Personal Blog
 
-Java console application that simulates banking operations using Object-Oriented Programming.
+Full-stack personal blog application developed with Spring Boot, featuring authentication, authorization, REST API documentation, and cloud deployment.
 
 **Technologies**
-- Java
-- OOP
-- Collections
-- Exception Handling
 
-🔗 https://github.com/marypraxedes/conta_bancaria
+* Java
+* Spring Boot
+* Spring Security
+* JWT
+* Spring Data JPA
+* MySQL
+* Swagger / OpenAPI
+* REST API
+* Render
+
+🔗 https://github.com/marypraxedes/blogpessoal_spring
 
 ---
 
