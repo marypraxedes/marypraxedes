@@ -1,18 +1,19 @@
 ## Hi, I'm Maryane Praxedes <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22">
 
-Software Engineering Student • ☕ Java • 🔐 Cybersecurity • ⚙️ DevSecOps
+Software Engineering Student • ☕ Java • ☁️ Cloud • 🔐 Cybersecurity & DevSecOps
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mary.praxedes@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marypraxedes/)
 
 ---
 
-### 👩‍💻 About
+- ### 👩‍💻 About
 
 - 🎓 Software Engineering student at **Uninter**
-- ☕ Java Full Stack student at **Generation Brasil**
-- 🔐 DevSecOps graduate through **Hackers do Bem**
-- 🚀 Passionate about Backend Development, Cybersecurity and continuous learning.
+- ☁️ Currently studying **Cloud Fundamentals** at **Escola da Nuvem**
+- 🎓 Graduate of the **Java Full Stack Bootcamp at Generation Brasil**
+- 🔐 Graduate of the **DevSecOps program at Hackers do Bem**
+- 🚀 Interested in **backend development, cloud computing, cybersecurity, and DevSecOps**
 
 ---
 
@@ -26,29 +27,24 @@ Software Engineering Student • ☕ Java • 🔐 Cybersecurity • ⚙️ DevS
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ---
 
 ### 📌 Featured Projects
 
-#### 📝 Personal Blog
+#### 🌤️ Weather Forecast
 
-Full-stack personal blog application developed with Spring Boot, featuring authentication, authorization, REST API documentation, and cloud deployment.
+Web application developed to display weather forecast information through a clean and responsive interface.
 
 **Technologies**
 
-* Java
-* Spring Boot
-* Spring Security
-* JWT
-* Spring Data JPA
-* MySQL
-* Swagger / OpenAPI
-* REST API
-* Render
+- HTML
+- CSS
+- JavaScript
+- REST API
 
-🔗 https://github.com/marypraxedes/blogpessoal_spring
-
----
+🔗 https://github.com/marypraxedes/projeto_clima
 
 #### 🎮 Game Store E-commerce
 
@@ -65,6 +61,6 @@ Java application developed during the Generation Brasil Bootcamp to manage a gam
 
 ---
 
-### 📈 GitHub Activity
+### 📊 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marypraxedes&theme=github-dark&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=marypraxedes&theme=github-dark&hide_border=true)
