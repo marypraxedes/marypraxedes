@@ -7,7 +7,7 @@ Software Engineering Student • ☕ Java • ☁️ Cloud • 🔐 Cybersecurit
 
 ---
 
-- ### 👩‍💻 About
+### 👩‍💻 About
 
 - 🎓 Software Engineering student at **Uninter**
 - ☁️ Currently studying **Cloud Fundamentals** at **Escola da Nuvem**
